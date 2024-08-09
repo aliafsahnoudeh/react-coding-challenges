@@ -1,0 +1,9 @@
+{
+    // "editor.codeActionsOnSave": {
+    //   "source.fixAll": "explicit"
+    // },
+    "github.copilot.enable": {
+        "*": false,
+        "my-react-app": false
+    }
+}

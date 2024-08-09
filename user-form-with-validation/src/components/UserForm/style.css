@@ -1,0 +1,27 @@
+#user-form {
+  height: 80vh;
+  border: black solid 1px;
+  display: grid;
+  padding: 20px;
+}
+
+#user-form label {
+  text-align: left;
+  width: 100%;
+  margin-bottom: 0;
+  height: 5vh;
+}
+
+#user-form input {
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
+  height: 10vh;
+}
+
+.error {
+  color: red;
+  text-align: left;
+  height: 5vh;
+  margin-bottom: 2vh;
+}
